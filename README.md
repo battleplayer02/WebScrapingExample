@@ -12,3 +12,7 @@ let url = "https://www.espncricinfo.com/series/ipl-2020-21-1210595/delhi-capital
 let url = "https://www.espncricinfo.com/series/ipl-2020-21-1210595/delhi-capitals-vs-mumbai-indians-final-1237181/ball-by-ball-commentary"
 
 ![image](https://user-images.githubusercontent.com/42701850/111027724-0a310b80-8418-11eb-9390-4b0a80eb854e.png)
+
+## Birthdays Of all the players of the team
+
+![image](https://user-images.githubusercontent.com/42701850/111746476-19023d00-88b4-11eb-9234-50cdd5ffddf7.png)
